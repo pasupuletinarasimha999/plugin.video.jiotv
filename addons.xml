@@ -21,9 +21,9 @@
             <platform>all</platform>
             <license>MIT</license>
             <forum>https://botallen.com/discord</forum>
-            <website>https://tobalan.github.io</website>
+            <website>https://pasupuletinarasimha999.github.io/plugin.video.jiotv/</website>
             <email>kodi@botallen.com</email>
-            <source>https://github.com/tobalan/plugin.video.jiotv</source>
+            <source>https://github.com/pasupuletinarasimha999/plugin.video.jiotv</source>
             <news>
                 [- 2.3.9 -]
                 [added] Revamped settings.xml and added strings.po
@@ -100,8 +100,7 @@
             <reuselanguageinvoker>true</reuselanguageinvoker>
         </extension>
     </addon>
-    <addon id="repository.jio" name="Jio Addon Repository" version="2.0.25"
-        provider-name="narsi">
+    <addon id="repository.jio" name="Jio Addon Repository" version="2.0.25" provider-name="narsi">
         <extension point="xbmc.addon.repository" name="Jio Addons Repository">
             <dir minversion="19.0">
                 <info compressed="false">https://pasupuletinarasimha999.github.io/plugin.video.jiotv/addons.xml</info>
