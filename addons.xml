@@ -100,11 +100,11 @@
             <reuselanguageinvoker>true</reuselanguageinvoker>
         </extension>
     </addon>
-    <addon id="repository.jio" name="TobAlan Addon Repository" version="2.0.1"
-        provider-name="tobalan">
-        <extension point="xbmc.addon.repository" name="TobAlan Addons Repository">
+    <addon id="repository.jio" name="Jio Addon Repository" version="2.0.25"
+        provider-name="narsi">
+        <extension point="xbmc.addon.repository" name="Jio Addons Repository">
             <dir minversion="19.0">
-                <info compressed="false">https://tobalan.github.io/addons.xml</info>
+                <info compressed="false">https://pasupuletinarasimha999.github.io/plugin.video.jiotv/addons.xml</info>
                 <checksum>https://tobalan.github.io/addons.xml.md5</checksum>
                 <datadir zip="true">https://pasupuletinarasimha999.github.io/plugin.video.jiotv/Zips</datadir>
             </dir>
