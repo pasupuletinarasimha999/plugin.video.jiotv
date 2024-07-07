@@ -10,13 +10,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="TobAlan Kodi repository for add-ons to stream Indian OTT Content" />
 <meta property="og:description" content="TobAlan Kodi repository for add-ons to stream Indian OTT Content" />
-<link rel="canonical" href="https://tobalan.github.io/" />
-<meta property="og:url" content="https://tobalan.github.io/" />
+<link rel="canonical" href="https://pasupuletinarasimha999.github.io/plugin.video.jiotv/" />
+<meta property="og:url" content="https://pasupuletinarasimha999.github.io/plugin.video.jiotv/" />
 <meta property="og:site_name" content="TobAlan" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="TobAlan" />
 <script type="application/ld+json">
-{"headline":"TobAlan","description":"TobAlan Kodi repository for add-ons to stream Indian OTT Content","url":"http://tobalan.github.io/","@type":"WebSite","name":"BotAllen","@context":"https://schema.org"}</script>
+{"headline":"TobAlan","description":"TobAlan Kodi repository for add-ons to stream Indian OTT Content","url":"http://pasupuletinarasimha999.github.io/plugin.video.jiotv/","@type":"WebSite","name":"BotAllen","@context":"https://schema.org"}</script>
 
 <link rel="stylesheet" href="/assets/css/style.css?v=e7ff45d00498f3d1a0460cb03d30f1c99fa76609">
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous" type="daa0af620609e3bb71f2d28e-text/javascript"></script>
@@ -44,7 +44,7 @@
 <div id="header">
 <nav>
 <ul>
-<li class="fork"><a href="https://github.com/tobalan/tobalan.github.io">View On GitHub</a></li>
+<li class="fork"><a href="https://github.com/tobalan/pasupuletinarasimha999.github.io/plugin.video.jiotv">View On GitHub</a></li>
 </ul>
 </nav>
 </div>
@@ -59,7 +59,7 @@
 </div>
 <h2 align="center">
 <br />
-<a href="https://github.com/tobalan/tobalan.github.io/tree/main/repository.tobalan"><img src="https://raw.githubusercontent.com/tobalan/plugin.video.jiotv/main/resources/icon.png" height="120" width="120" /></a>
+<a href="https://github.com/tobalan/pasupuletinarasimha999.github.io/plugin.video.jiotv/tree/main/repository.tobalan"><img src="https://raw.githubusercontent.com/tobalan/plugin.video.jiotv/main/resources/icon.png" height="120" width="120" /></a>
 </h2>
 <p align="center">
 
@@ -85,8 +85,8 @@
 <img src="https://img.shields.io/github/issues/botallen/repository.botallen?style=flat-square" />
 </a>
 
-<a href="https://github.com/tobalan/tobalan.github.io/commit/main">
-<img src="https://img.shields.io/github/last-commit/tobalan/tobalan.github.io?style=flat-square" />
+<a href="https://github.com/tobalan/pasupuletinarasimha999.github.io/plugin.video.jiotv/commit/main">
+<img src="https://img.shields.io/github/last-commit/tobalan/pasupuletinarasimha999.github.io/plugin.video.jiotv?style=flat-square" />
 </a>
 </p>
 <p><br /></p>
@@ -108,7 +108,7 @@
 <ul>
 <li>Go to the Kodi file manager.</li>
 <li>Click on "Add source"</li>
-<li>The path for the source is <code>https://tobalan.github.io/</code> (Give it the name "TobAlan Repo").</li>
+<li>The path for the source is <code>https://pasupuletinarasimha999.github.io/plugin.video.jiotv/</code> (Give it the name "TobAlan Repo").</li>
 <li>Go to "Addons"</li>
 <li>In Addons, install an addon from zip. When it asks for the location, select "TobAlan Repository", and install <a href="repository.tobalan-2.0.1.zip">repository.tobalan-2.0.1.zip</a>.</li>
 <li>Restart Kodi</li>
